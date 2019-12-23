@@ -1,11 +1,11 @@
 const config = {
-  siteTitle: `Gatsby Starter hpp`,
-  siteTitleAlt: `Gatsby Starter hpp - @hppRC/gatsby-starter-hpp`,
-  siteHeadline: `Gatsby Starter hpp - Gatsby Starter from @hppRC`,
-  siteUrl: `https://gatsby-starter-hpp.netlify.com`,
+  siteTitle: `ACE Homepage`,
+  siteTitleAlt: `ACE - action for crosscultural exchenge - Homepage`,
+  siteHeadline: `ACE - action for crosscultural exchenge - Homepage`,
+  siteUrl: `https://ace-homepage.web.app`,
   siteDescription: `simple gatsby starter with mdx, typescript, pwa`,
-  siteLanguage: `en`,
-  author: `@osaremochi`, // twitter account id
+  siteLanguage: `ja`,
+  author: `@ACEshinkan`, // twitter account id
   basePath: `/`
 };
 
@@ -79,7 +79,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: config.siteTitle,
-        short_name: `hpp`,
+        short_name: `ACE`,
         description: config.siteDescription,
         Scope: `/`,
         start_url: `/?utm_source=homescreen`,

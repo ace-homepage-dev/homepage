@@ -7,7 +7,7 @@ import { StyledModeButton as ModeButton } from './mode-button';
 
 const Header: React.FCX = ({ className }) => (
   <header className={className}>
-    <h1>Gatsby starter hpp</h1>
+    <h1>Ace Homepage</h1>
     <nav>
       <ul>
         <li>
