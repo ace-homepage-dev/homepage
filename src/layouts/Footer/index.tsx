@@ -4,7 +4,7 @@ import styled from '@emotion/styled';
 
 const Footer: React.FCX = ({ className }) => (
   <footer className={className}>
-    Copyright © 2019 hppRC All Rights Reserved.
+    Copyright © 2019 ACE All Rights Reserved.
   </footer>
 );
 
